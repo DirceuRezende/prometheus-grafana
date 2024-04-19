@@ -1,0 +1,17 @@
+{
+	"ulid": "01HVVXD5KWTNC7MA1WV78VHPPT",
+	"minTime": 1713544218552,
+	"maxTime": 1713549600000,
+	"stats": {
+		"numSamples": 171355,
+		"numSeries": 682,
+		"numChunks": 1842
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01HVVXD5KWTNC7MA1WV78VHPPT"
+		]
+	},
+	"version": 1
+}
